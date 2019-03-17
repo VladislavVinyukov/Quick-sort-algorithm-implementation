@@ -1,0 +1,13 @@
+D:\Visual Studio 2010\sort\sort\bin\Debug\sort.exe.config
+D:\Visual Studio 2010\sort\sort\bin\Debug\sort.exe
+D:\Visual Studio 2010\sort\sort\bin\Debug\sort.pdb
+D:\Visual Studio 2010\sort\sort\obj\Debug\sort.csprojAssemblyReference.cache
+D:\Visual Studio 2010\sort\sort\obj\Debug\sort.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\sort\sort\obj\Debug\sort.exe
+D:\Visual Studio 2010\sort\sort\obj\Debug\sort.pdb
+F:\Программирование\sort\sort\bin\Debug\sort.exe.config
+F:\Программирование\sort\sort\bin\Debug\sort.exe
+F:\Программирование\sort\sort\bin\Debug\sort.pdb
+F:\Программирование\sort\sort\obj\Debug\sort.csprojResolveAssemblyReference.cache
+F:\Программирование\sort\sort\obj\Debug\sort.exe
+F:\Программирование\sort\sort\obj\Debug\sort.pdb
